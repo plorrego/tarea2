@@ -1,0 +1,2 @@
+class ClassNews < ApplicationRecord
+end
