@@ -1,3 +1,3 @@
 class Comment < ApplicationRecord
-	belongs_to :class_news
+	belongs_to :news
 end
